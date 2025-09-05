@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EEITM
-- 👀 I’m interested in .NET/C#/MAUI, Flutter/Dart, 
+- 👀 I’m interested in .NET/C#/MAUI, python, 
 - 🌱 I’m currently learning Flutter/Dart
 - 💞️ I’m looking to collaborate on video games.
 - 📫 How to reach me:
