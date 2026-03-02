@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter/Dart
 - 💞️ I’m looking to collaborate on video games.
 - 📫 How to reach me:
-- emil.engstrom@twoday.com
+- emil.engstrom@it-minds.dk
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Mario Kart pro
 
